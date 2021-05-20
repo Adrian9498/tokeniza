@@ -13,6 +13,6 @@ class ControladorControllerSpec extends Specification implements ControllerUnitT
 
     void "test something"() {
         expect:"fix me"
-            true == true
+            true == true//Richard
     }
 }
