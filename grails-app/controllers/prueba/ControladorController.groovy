@@ -2,5 +2,8 @@ package prueba
 
 class ControladorController {
 
-    def index() { }
+    def index() {
+        render "Hola Mundo"
+
+     }
 }
